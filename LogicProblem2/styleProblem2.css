@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+input, button {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.result {
+    margin-top: 20px;
+    font-weight: bold;
+    border: 2px solid red; /* Borde rojo para el resultado */
+    padding: 10px; /* Espacio interno */
+}
